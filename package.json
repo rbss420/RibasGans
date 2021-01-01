@@ -1,5 +1,5 @@
 {
-  "name": "XBOT",
+  "name": "RBOT",
   "version": "1.0.0",
   "description": "khusus termux",
   "main": "index.js",
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/affisjunianto/botwasap.git"
+    "url": "git+https://github.com/rbss420/RibasGans.git"
   },
   "keywords": [
     "k"
@@ -37,7 +37,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/affisjunianto/botwasap/issues"
+    "url": "https://github.com/rbss420/RibasGans/issues"
   },
-  "homepage": "https://github.com/affisjunianto/botwasap/readme"
+  "homepage": "https://github.com/rbss420/RibasGans/readme"
 }
